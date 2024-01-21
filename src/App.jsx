@@ -5,7 +5,7 @@ function App() {
         <h1 className="text-3xl font-bold text-center text-blue-400">
           Vite + React + Tailwind CSS
         </h1>
-        <p>Hello Universe</p>
+        <p>Hello World</p>
       </div>
     </>
   );
